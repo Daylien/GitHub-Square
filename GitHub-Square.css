@@ -183,3 +183,63 @@ SOFTWARE.
 .pagehead-tabs-item {
     border-radius: 0;
 }
+
+.file-header {
+    border-radius: 0px;
+}
+
+.file {
+    border-radius: 0px;
+}
+
+.boxed-group-inner {
+    border-radius: 0px;
+}
+
+.BtnGroup-item:last-child {
+    border-radius: 0px;
+}
+
+.BtnGroup-item:first-child {
+    border-radius: 0px;
+}
+
+.wiki-rightbar .boxed-group.collapsed > h3 {
+    border-radius: 0px;
+}
+
+.wiki-wrapper .wiki-custom-sidebar {
+    border-radius: 0px;
+}
+
+.wiki-wrapper .wiki-footer .wiki-auxiliary-content {
+    border-radius: 0px;
+}
+
+.table-list-header {
+    border-radius: 0;
+}
+
+.pagination a:first-child, .pagination span:first-child, .pagination em:first-child {
+    border-radius: 0px;
+}
+
+.pagination a:last-child, .pagination span:last-child, .pagination em:last-child {
+    border-radius: 0px;
+}
+
+.menu-item:first-child {
+    border-radius: 0px;
+}
+
+.Box {
+    border-radius: 0px;
+}
+
+.state, .State {
+    border-radius: 0px;
+}
+
+.network .gravatar {
+    border-radius: 0px;
+}
