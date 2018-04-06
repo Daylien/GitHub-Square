@@ -245,5 +245,9 @@ SOFTWARE.
 }
 
 .full-commit {
+    border-radius: 0px !important;
+}
+
+.social-count {
     border-radius: 0px;
 }
