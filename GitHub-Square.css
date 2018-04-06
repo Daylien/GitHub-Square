@@ -189,7 +189,7 @@ SOFTWARE.
 }
 
 .file {
-    border-radius: 0px;
+    border-radius: 0px !important;
 }
 
 .boxed-group-inner {
@@ -241,5 +241,9 @@ SOFTWARE.
 }
 
 .network .gravatar {
+    border-radius: 0px;
+}
+
+.full-commit {
     border-radius: 0px;
 }
