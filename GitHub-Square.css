@@ -251,3 +251,22 @@ SOFTWARE.
 .social-count {
     border-radius: 0px;
 }
+
+.select-menu-button-gravatar img, .select-menu-item-gravatar img {
+    border-radius: 0px;
+}
+
+.CodeMirror-merge-collapsed-widget{
+    border-radius: 0px;
+}
+
+.Box{
+    border-radius: 0px;
+}
+.border {
+    border-radius: 0px;
+}
+
+.border-gray-dark {
+    border-radius: 0px;
+}
